@@ -1,8 +1,36 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Inicio";
 }
+<div id="app">
+    <section class="hero-section">
+    </section>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <section class="productos-section container mt-5">
+        <h2 class="text-center mb-4">Juegos Disponibles</h2>
+        <div class="row">
+            <div v-for="juego in juegos" :key="juego.id" class="col-md-3 mb-4">
+                <div class="card h-100">
+                    <img :src="juego.rutaImagen" class="card-img-top" :alt="juego.nombre">
+                    <div class="card-body">
+                        <h5 class="card-title">{{ juego.nombre }}</h5>
+                        <p class="card-text text-primary fw-bold">${{ juego.precio ? juego.precio.toFixed(2) : 'N/A' }}</p>
+                        <p class="card-text">{{ juego.descripcion }}</p>
+                        <button class="btn btn-primary">Agregar al carrito</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </div>
+
+@section Scripts {
+    <script>
+        // Esto debería estar aquí, después de que el HTML ya se haya cargado
+        new Vue({
+            el: '#app',
+            data: {
+                juegos: @Html.Raw(Json.Serialize(Model)) // Asegúrate de que el Modelo no esté vacío
+            }
+        });
+    </script>
+}   

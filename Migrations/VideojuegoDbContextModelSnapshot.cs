@@ -171,6 +171,15 @@ namespace VideojuegosApp.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("Precio")
+                        .HasColumnType("int");
+
+                    b.Property<string>("RutaImagen")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("Stock")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.ToTable("Juegos");

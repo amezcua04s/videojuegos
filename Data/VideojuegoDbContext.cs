@@ -11,7 +11,8 @@ namespace VideojuegosApp.Data
         {
         }
 
-        public DbSet<Juego> Juegos { get; set; }
+        public DbSet<Juego> Juegos { get; set; } 
+
 
     }
 }
