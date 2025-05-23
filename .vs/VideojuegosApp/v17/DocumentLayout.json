@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\data\\videojuegodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:data\\videojuegodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\data\\seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:data\\seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\models\\videojuegouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:models\\videojuegouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +43,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedUsers.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Data\\SeedUsers.cs",
+              "RelativeDocumentMoniker": "Data\\SeedUsers.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Data\\SeedUsers.cs",
+              "RelativeToolTip": "Data\\SeedUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:24:44.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideojuegoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Data\\VideojuegoDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\VideojuegoDbContext.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Data\\VideojuegoDbContext.cs",
+              "RelativeToolTip": "Data\\VideojuegoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:24:21.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:23:57.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:23:54.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VideojuegoUser.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Models\\VideojuegoUser.cs",
+              "RelativeDocumentMoniker": "Models\\VideojuegoUser.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Models\\VideojuegoUser.cs",
+              "RelativeToolTip": "Models\\VideojuegoUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:20:29.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwA0AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:19:34.895Z",
+              "EditorCaption": ""
             }
           ]
         }
