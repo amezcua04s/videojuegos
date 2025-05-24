@@ -2240,7 +2240,6 @@ C:\Users\santi\Desktop\VideojuegosApp\obj\Debug\net9.0\compressed\7v5xfpbwj1-v7a
 C:\Users\santi\Desktop\VideojuegosApp\obj\Debug\net9.0\compressed\94awwxf9dp-hohk1s2ml5.gz
 C:\Users\santi\Desktop\VideojuegosApp\obj\Debug\net9.0\compressed\lyrdrgbshj-jo62mk3w6z.gz
 C:\Users\santi\Desktop\VideojuegosApp\obj\Debug\net9.0\compressed\tg017t6401-d3505e3jkm.gz
-C:\Users\santi\Desktop\VideojuegosApp\obj\Debug\net9.0\compressed\9jadak7cym-l1k6cxegp0.gz
 C:\Users\Geovanni Ramos\Desktop\proyectosWeb\videojuegos\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\Geovanni Ramos\Desktop\proyectosWeb\videojuegos\bin\Debug\net9.0\appsettings.json
 C:\Users\Geovanni Ramos\Desktop\proyectosWeb\videojuegos\bin\Debug\net9.0\VideojuegosApp.staticwebassets.runtime.json
@@ -4484,3 +4483,4 @@ C:\Users\Geovanni Ramos\Desktop\proyectosWeb\videojuegos\obj\Debug\net9.0\refint
 C:\Users\Geovanni Ramos\Desktop\proyectosWeb\videojuegos\obj\Debug\net9.0\VideojuegosApp.pdb
 C:\Users\Geovanni Ramos\Desktop\proyectosWeb\videojuegos\obj\Debug\net9.0\VideojuegosApp.genruntimeconfig.cache
 C:\Users\Geovanni Ramos\Desktop\proyectosWeb\videojuegos\obj\Debug\net9.0\ref\VideojuegosApp.dll
+C:\Users\santi\Desktop\VideojuegosApp\obj\Debug\net9.0\compressed\9jadak7cym-fcfbxiiwnu.gz

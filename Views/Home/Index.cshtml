@@ -1,36 +1,31 @@
-﻿@{
-    ViewData["Title"] = "Inicio";
+﻿@model IEnumerable<VideojuegosApp.Models.Juego>
+@{
+    ViewData["Title"] = "Catálogo de Videojuegos";
+    Layout = "_Layout"; // Usa tu layout público (si no tienes uno, usa _Layout sin AdminLTE)
 }
-<div id="app">
-    <section class="hero-section">
-    </section>
 
-    <section class="productos-section container mt-5">
-        <h2 class="text-center mb-4">Juegos Disponibles</h2>
-        <div class="row">
-            <div v-for="juego in juegos" :key="juego.id" class="col-md-3 mb-4">
+<div class="container mt-4">
+    <h2 class="text-center mb-4">@ViewData["Title"]</h2>
+
+    <div class="row">
+        @foreach (var juego in Model)
+        {
+            <div class="col-md-4 mb-4">
                 <div class="card h-100">
-                    <img :src="juego.rutaImagen" class="card-img-top" :alt="juego.nombre">
+                    @if (!string.IsNullOrEmpty(juego.RutaImagen))
+                    {
+                        <img src="@juego.RutaImagen" class="card-img-top" alt="@juego.Nombre" style="height: 200px; object-fit: cover;">
+                    }
                     <div class="card-body">
-                        <h5 class="card-title">{{ juego.nombre }}</h5>
-                        <p class="card-text text-primary fw-bold">${{ juego.precio ? juego.precio.toFixed(2) : 'N/A' }}</p>
-                        <p class="card-text">{{ juego.descripcion }}</p>
-                        <button class="btn btn-primary">Agregar al carrito</button>
+                        <h5 class="card-title">@juego.Nombre</h5>
+                        <p class="card-text text-success font-weight-bold">@(juego.Precio?.ToString("C") ?? "Precio no disponible")</p>
+                        <p class="card-text">@(juego.Descripcion?.Length > 100 ? juego.Descripcion.Substring(0, 100) + "..." : juego.Descripcion)</p>
+                    </div>
+                    <div class="card-footer bg-white">
+                        <a href="#" class="btn btn-primary btn-block">Ver detalles</a>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+        }
+    </div>
 </div>
-
-@section Scripts {
-    <script>
-        // Esto debería estar aquí, después de que el HTML ya se haya cargado
-        new Vue({
-            el: '#app',
-            data: {
-                juegos: @Html.Raw(Json.Serialize(Model)) // Asegúrate de que el Modelo no esté vacío
-            }
-        });
-    </script>
-}   
