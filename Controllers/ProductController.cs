@@ -83,6 +83,13 @@ namespace VideojuegosApp.Controllers
             }
             return View(juego);
         }
+
+        [AllowAnonymous] // Permite acceso sin login
+        public IActionResult IndexPublico()
+        {
+            var juegos = _context.Juegos.ToList();
+            return View(juegos);
+        }
         [Authorize(Roles = "Administrador")]
         public async Task<IActionResult> Delete(int id)
         {
