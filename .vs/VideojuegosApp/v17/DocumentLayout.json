@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\data\\seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:data\\seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\shared\\_layoutadminlte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\data\\seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:data\\seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -171,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Productos\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Productos\\Index.cshtml",
@@ -184,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "SeedUsers.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Data\\SeedUsers.cs",
               "RelativeDocumentMoniker": "Data\\SeedUsers.cs",
@@ -222,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Productos\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Productos\\Create.cshtml",
@@ -283,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -332,13 +332,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBUAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-23T16:09:12.835Z",
               "EditorCaption": ""
@@ -357,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "_LayoutAdminLTE.cshtml",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Shared\\_LayoutAdminLTE.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LayoutAdminLTE.cshtml",
@@ -382,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
@@ -443,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -468,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",

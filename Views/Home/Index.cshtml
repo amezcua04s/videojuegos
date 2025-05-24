@@ -19,6 +19,7 @@
                     <div class="card-body">
                         <h5 class="card-title">@juego.Nombre</h5>
                         <p class="card-text text-success font-weight-bold">@(juego.Precio?.ToString("C") ?? "Precio no disponible")</p>
+                        <p class="card-text">@(juego.Stock?.ToString() + " Piezas" ?? "Artículo no disponible")</p>
                         <p class="card-text">@(juego.Descripcion?.Length > 100 ? juego.Descripcion.Substring(0, 100) + "..." : juego.Descripcion)</p>
                     </div>
                     <div class="card-footer bg-white">
