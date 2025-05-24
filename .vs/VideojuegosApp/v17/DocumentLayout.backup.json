@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\wwwroot\\adminlte\\dist\\js\\pages\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:wwwroot\\adminlte\\dist\\js\\pages\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\wwwroot\\js\\vue.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:wwwroot\\js\\vue.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\santi\\Desktop\\VideojuegosApp\\Migrations\\20250523163607_JuegoVista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250523163607_JuegoVista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\data\\seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:data\\seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -103,6 +119,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "dashboard.js",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\wwwroot\\adminlte\\dist\\js\\pages\\dashboard.js",
+              "RelativeDocumentMoniker": "wwwroot\\adminlte\\dist\\js\\pages\\dashboard.js",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\wwwroot\\adminlte\\dist\\js\\pages\\dashboard.js",
+              "RelativeToolTip": "wwwroot\\adminlte\\dist\\js\\pages\\dashboard.js",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-23T16:42:46.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vue.min.js",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\wwwroot\\js\\vue.min.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\vue.min.js",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\wwwroot\\js\\vue.min.js*",
+              "RelativeToolTip": "wwwroot\\js\\vue.min.js*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-23T16:40:22.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-23T16:39:56.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T16:37:15.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "20250523163607_JuegoVista.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Migrations\\20250523163607_JuegoVista.cs",
               "RelativeDocumentMoniker": "Migrations\\20250523163607_JuegoVista.cs",
@@ -115,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "20250523162455_Juego.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Migrations\\20250523162455_Juego.cs",
               "RelativeDocumentMoniker": "Migrations\\20250523162455_Juego.cs",
@@ -128,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
@@ -145,16 +213,16 @@
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-23T16:09:12.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Productos\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Productos\\Index.cshtml",
@@ -167,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Productos\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Productos\\Edit.cshtml",
@@ -180,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Productos\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Productos\\Create.cshtml",
@@ -193,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "_LayoutAdminLTE.cshtml",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Shared\\_LayoutAdminLTE.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LayoutAdminLTE.cshtml",
@@ -206,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
@@ -219,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
@@ -232,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "SeedUsers.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Data\\SeedUsers.cs",
               "RelativeDocumentMoniker": "Data\\SeedUsers.cs",
@@ -245,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "20250523153808_Initial.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Migrations\\20250523153808_Initial.cs",
               "RelativeDocumentMoniker": "Migrations\\20250523153808_Initial.cs",
@@ -258,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -271,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -284,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Juego.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Models\\Juego.cs",
               "RelativeDocumentMoniker": "Models\\Juego.cs",
@@ -297,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -310,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "VideojuegoDbContext.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Data\\VideojuegoDbContext.cs",
               "RelativeDocumentMoniker": "Data\\VideojuegoDbContext.cs",
@@ -323,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -336,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "VideojuegoUser.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Models\\VideojuegoUser.cs",
               "RelativeDocumentMoniker": "Models\\VideojuegoUser.cs",
@@ -349,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
