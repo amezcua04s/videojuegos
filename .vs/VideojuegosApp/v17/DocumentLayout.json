@@ -1,117 +1,125 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\data\\seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:data\\seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\shared\\_layoutadminlte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\views\\shared\\_layoutadminlte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\shared\\_layoutadminlte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\models\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:models\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\wwwroot\\js\\vue.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:wwwroot\\js\\vue.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\wwwroot\\adminlte\\dist\\js\\pages\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:wwwroot\\adminlte\\dist\\js\\pages\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\data\\videojuegodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:data\\videojuegodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\models\\videojuegouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:models\\videojuegouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\migrations\\20250523163607_juegovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\models\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:models\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\models\\videojuegouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:models\\videojuegouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\data\\seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:data\\seedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\wwwroot\\js\\vue.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:wwwroot\\js\\vue.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\wwwroot\\adminlte\\dist\\js\\pages\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:wwwroot\\adminlte\\dist\\js\\pages\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\data\\videojuegodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:data\\videojuegodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\migrations\\20250523163607_juegovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:migrations\\20250523163607_juegovista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\migrations\\20250523162455_juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\migrations\\20250523162455_juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:migrations\\20250523162455_juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\santi\\desktop\\videojuegosapp\\migrations\\20250523153808_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|c:\\users\\cliente.pc\\source\\repos\\videojuegos\\migrations\\20250523153808_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9553622-D128-4E08-BF87-1CF474FD4728}|VideojuegosApp.csproj|solutionrelative:migrations\\20250523153808_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -122,7 +130,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,259 +142,184 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-24T02:18:43.262Z",
+              "DocumentIndex": 4,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:26:11.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-24T02:17:19.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-24T02:16:59.325Z"
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:23:54.983Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Productos\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Productos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Productos\\Index.cshtml",
-              "RelativeToolTip": "Views\\Productos\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T16:05:50.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SeedUsers.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Data\\SeedUsers.cs",
-              "RelativeDocumentMoniker": "Data\\SeedUsers.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Data\\SeedUsers.cs",
-              "RelativeToolTip": "Data\\SeedUsers.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBUAAAAfAAAAAAAAAA==",
+              "Title": "VideojuegoUser.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Models\\VideojuegoUser.cs",
+              "RelativeDocumentMoniker": "Models\\VideojuegoUser.cs",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Models\\VideojuegoUser.cs",
+              "RelativeToolTip": "Models\\VideojuegoUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T15:42:34.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Juego.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Models\\Juego.cs",
-              "RelativeDocumentMoniker": "Models\\Juego.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Models\\Juego.cs",
-              "RelativeToolTip": "Models\\Juego.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T15:30:01.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAowFcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T16:12:44.409Z",
+              "WhenOpened": "2025-05-23T15:20:29.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Productos\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Productos\\Create.cshtml",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Productos\\Create.cshtml",
-              "RelativeToolTip": "Views\\Productos\\Create.cshtml",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T16:02:01.15Z",
+              "Title": "Juego.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Models\\Juego.cs",
+              "RelativeDocumentMoniker": "Models\\Juego.cs",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Models\\Juego.cs",
+              "RelativeToolTip": "Models\\Juego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:30:01.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwD0AAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T15:33:25.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "20250523162455_Juego.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Migrations\\20250523162455_Juego.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250523162455_Juego.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Migrations\\20250523162455_Juego.cs",
-              "RelativeToolTip": "Migrations\\20250523162455_Juego.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T16:24:55.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Productos\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Productos\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Productos\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Productos\\Edit.cshtml",
-              "ViewState": "AgIAADcAAAAAAAAAAAAuwFIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T16:05:36.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20250523163607_JuegoVista.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Migrations\\20250523163607_JuegoVista.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250523163607_JuegoVista.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Migrations\\20250523163607_JuegoVista.cs",
-              "RelativeToolTip": "Migrations\\20250523163607_JuegoVista.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T16:36:08.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAQwCUAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAADgvzcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-23T16:37:15.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-23T16:39:56.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "vue.min.js",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\wwwroot\\js\\vue.min.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\vue.min.js",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\wwwroot\\js\\vue.min.js",
-              "RelativeToolTip": "wwwroot\\js\\vue.min.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABwbwEAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-23T16:40:22.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "dashboard.js",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\wwwroot\\adminlte\\dist\\js\\pages\\dashboard.js",
-              "RelativeDocumentMoniker": "wwwroot\\adminlte\\dist\\js\\pages\\dashboard.js",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\wwwroot\\adminlte\\dist\\js\\pages\\dashboard.js",
-              "RelativeToolTip": "wwwroot\\adminlte\\dist\\js\\pages\\dashboard.js",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-23T16:42:46.308Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBUAAABqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T16:09:12.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T16:43:44.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "_LayoutAdminLTE.cshtml",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Shared\\_LayoutAdminLTE.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\Shared\\_LayoutAdminLTE.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LayoutAdminLTE.cshtml",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Shared\\_LayoutAdminLTE.cshtml",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\Shared\\_LayoutAdminLTE.cshtml",
               "RelativeToolTip": "Views\\Shared\\_LayoutAdminLTE.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-23T15:43:52.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T15:43:13.617Z"
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\Productos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\Productos\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T16:05:36.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Admin\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T16:05:50.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADgvysAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:12:44.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:43:13.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T16:43:44.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:23:57.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T16:09:12.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\Admin\\Index.cshtml",
               "RelativeToolTip": "Views\\Admin\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -395,11 +328,161 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T02:18:43.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\Productos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\Productos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAADgvzkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T16:02:01.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T00:21:47.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T02:17:19.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T02:16:59.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SeedUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Data\\SeedUsers.cs",
+              "RelativeDocumentMoniker": "Data\\SeedUsers.cs",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Data\\SeedUsers.cs",
+              "RelativeToolTip": "Data\\SeedUsers.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:42:34.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwD0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:33:25.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250523162455_Juego.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Migrations\\20250523162455_Juego.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250523162455_Juego.cs",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Migrations\\20250523162455_Juego.cs",
+              "RelativeToolTip": "Migrations\\20250523162455_Juego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:24:55.35Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 27,
+              "Title": "20250523163607_JuegoVista.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Migrations\\20250523163607_JuegoVista.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250523163607_JuegoVista.cs",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Migrations\\20250523163607_JuegoVista.cs",
+              "RelativeToolTip": "Migrations\\20250523163607_JuegoVista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:36:08.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-23T16:39:56.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "vue.min.js",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\wwwroot\\js\\vue.min.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\vue.min.js",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\wwwroot\\js\\vue.min.js",
+              "RelativeToolTip": "wwwroot\\js\\vue.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABwbwEAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-23T16:40:22.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dashboard.js",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\wwwroot\\adminlte\\dist\\js\\pages\\dashboard.js",
+              "RelativeDocumentMoniker": "wwwroot\\adminlte\\dist\\js\\pages\\dashboard.js",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\wwwroot\\adminlte\\dist\\js\\pages\\dashboard.js",
+              "RelativeToolTip": "wwwroot\\adminlte\\dist\\js\\pages\\dashboard.js",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-23T16:42:46.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "20250523153808_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Migrations\\20250523153808_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Migrations\\20250523153808_Initial.cs",
               "RelativeDocumentMoniker": "Migrations\\20250523153808_Initial.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Migrations\\20250523153808_Initial.cs",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Migrations\\20250523153808_Initial.cs",
               "RelativeToolTip": "Migrations\\20250523153808_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -407,11 +490,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -419,23 +502,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T15:23:57.095Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "VideojuegoDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Data\\VideojuegoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Data\\VideojuegoDbContext.cs",
               "RelativeDocumentMoniker": "Data\\VideojuegoDbContext.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Data\\VideojuegoDbContext.cs",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Data\\VideojuegoDbContext.cs",
               "RelativeToolTip": "Data\\VideojuegoDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -443,41 +514,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T15:23:54.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "VideojuegoUser.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Models\\VideojuegoUser.cs",
-              "RelativeDocumentMoniker": "Models\\VideojuegoUser.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Models\\VideojuegoUser.cs",
-              "RelativeToolTip": "Models\\VideojuegoUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T15:20:29.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 20,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\VideojuegosApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Cliente.pc\\source\\repos\\videojuegos\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAzwA0AAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T15:19:34.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T15:19:34.895Z"
             }
           ]
         }

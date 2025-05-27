@@ -1,40 +1,65 @@
 ﻿@model IEnumerable<VideojuegosApp.Models.Juego>
 @{
-
     ViewData["Title"] = "Medicamentos";
-
     Layout = "_LayoutAdminLTE";
 }
 
 <div class="container mt-4">
     <h2 class="mb-4">Listado de Juegos</h2>
     <a asp-action="Create" class="btn btn-primary mb-3">Registrar Juego</a>
-    <table class="table table-bordered table-hover">
-        <thead class="thead-dark">
-            <tr>
-                <th>Nombre</th>
-                <th>Precio</th>
-                <th>Stock</th>
-                <th>Imagen</th>
-                <th>Acciones</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var item in Model)
-            {
-                <tr>
-                    <td>@item.Nombre</td>
-                    <td>$@item.Precio</td>
-                    <td>@item.Stock Pzs</td>
-                    <td>
-                        <img src="@item.RutaImagen" width="80" class="img-thumbnail" />
-                    </td>
-                    <td>
+
+    <div class="d-none d-md-block">
+        <!-- Tabla solo en pantallas medianas en adelante -->
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover align-middle">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Precio</th>
+                        <th>Stock</th>
+                        <th>Imagen</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Nombre</td>
+                            <td>$@item.Precio</td>
+                            <td>@item.Stock Pzs</td>
+                            <td>
+                                <img src="@item.RutaImagen" class="img-thumbnail" style="max-width: 80px; height: auto;" />
+                            </td>
+                            <td>
+                                <div class="d-flex gap-2">
+                                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Editar</a>
+                                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger" onclick="return confirm('¿Desea eliminar este medicamento?')">Eliminar</a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Vista tipo card para móviles -->
+    <div class="d-block d-md-none">
+        @foreach (var item in Model)
+        {
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Nombre</h5>
+                    <p class="card-text text-success">Precio: $@item.Precio</p>
+                    <p class="card-text">Stock: @item.Stock Pzs</p>
+                    <img src="@item.RutaImagen" class="img-fluid mb-2" style="max-width: 100px;" />
+                    <div class="d-flex gap-2">
                         <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Editar</a>
                         <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger" onclick="return confirm('¿Desea eliminar este medicamento?')">Eliminar</a>
-                    </td>
-                </tr>
-            }
-        </tbody>
-    </table>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
 </div>
